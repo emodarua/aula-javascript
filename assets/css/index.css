@@ -1,0 +1,50 @@
+body{
+    background-color: red;
+}
+#armaduras {
+    border: solid 3px darkred;
+    width: 250px;
+    height: 300px;
+    margin-bottom: 20px;
+}
+h1{
+    text-align: center;
+    height: 100px;
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    size: 100px;   
+    font-family: vingadores;
+    margin-bottom: 70px;
+    font-size: 70px;
+    margin-top: 0;
+}
+div{
+    display: block;
+    margin: auto;
+}
+button{
+    padding: 20px;
+    padding-left: 150px;
+    padding-right: 150px;
+    gap: 100px;
+    background-color: darkred;
+    color: white;
+    
+    
+}
+@font-face{
+    font-family: vingadores;
+    src: url(../fontes/AVENGEANCE\ HEROIC\ AVENGER\ BD.otf);
+    
+}
+#botoes{
+    text-align: center;
+    padding: 70px;
+}
+#armaduras {
+   margin: auto;
+   height: 380px;
+   width: 500px;
+}
